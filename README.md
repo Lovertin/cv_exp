@@ -11,8 +11,10 @@ Generated result images, Word reports, PPT files, original experiment images, co
 ## Current Scripts
 
 - `src/exp1_basic_operations.py`: Experiment 1, basic image operations.
+- `src/make_exp1_report_docx.py`: Helper script for generating Experiment 1 report content.
 - `src/exp2_image_transform.py`: Experiment 2, image transforms, smoothing, and thresholding.
 - `src/make_exp2_report_docx.py`: Helper script for generating Experiment 2 report content.
+- `src/exp3_collect_augment.py`: Experiment 3, public hand gesture data collection and augmentation.
 
 ## Report Template Scheme
 
@@ -63,4 +65,3 @@ If OpenCV GUI windows are needed and supported by the local environment, run:
 ```bash
 python E:\实验报告\实验\src\expX_xxx.py --show
 ```
-
