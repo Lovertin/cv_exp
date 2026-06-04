@@ -1,0 +1,7 @@
+opencv-python>=4.10
+numpy>=2.0
+pillow>=10.0
+python-docx>=1.1
+albumentations>=1.4
+ultralytics>=8.3
+

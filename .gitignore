@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda/
+
+# Experiment data and generated artifacts
+outputs/
+dataset/
+实验图像/
+*.rar
+*.zip
+
+# Office documents and temporary lock files
+*.docx
+*.pptx
+~$*
+
+# Local/editor files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
